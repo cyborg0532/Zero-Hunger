@@ -1,0 +1,6 @@
+#how {
+  background: linear-gradient(120deg, #FFA500 5%, transparent 5%) 50px 50px,
+              linear-gradient(240deg, #FFA500 5%, transparent 5%) 50px 50px;
+  background-size: 100px 100px;
+  background-repeat: repeat;
+}
